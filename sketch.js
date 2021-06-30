@@ -139,7 +139,7 @@ function end() {
   next.position(700,330);
     console.log("gameend")
     next.mousePressed(()=>{
-      window.open("https://gerisha.github.io/cs3/", '_top')
+      window.open("https://gerisha.github.io/CS3/", '_top')
     })
     
   }
